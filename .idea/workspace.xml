@@ -5,56 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fad89a2-2291-4a24-81e7-74301a784835" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gson-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rootFiles/Contacts.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rootFiles/file2/directinfile2/file in direct2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rootFiles/file2/in file2 Java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rootFiles/testFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArreyList/myArreyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArreyList/myArreyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/For/Mod4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW10/Step1/Skiper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW10/Step1/Skiper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW10/Step3/READ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW10/step2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InputoutPut/CopyPast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InputoutPut/CopyPastTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InputoutPut/FileCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstruktor/DoubleSpaceCleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstruktor/GooSearchResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstruktor/GooSearchResultTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstruktor/Mathmetod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Konstruktor/PunctuationMarkCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LincedList/LincedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Scanner/ScanFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Scanner/ScanFileIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Scanner/ScanFileTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Searching/SearchIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Searching/SearchTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/Searching/SearchingUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/TESTS/NewSearcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/TESTS/NewSearcherTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/readFiles/readFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/readFiles/readFilesIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NevSercher/readFiles/readFilesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/SpaceRocketLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/Tanker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/launchCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/spaceShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pole/testPole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/Step2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/Step3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/Step4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/Step5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/TestsLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW11/setp1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lamds/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lamds/HumanGenerators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lamds/HumanTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HW10/step2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW10/step2/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -88,6 +50,7 @@
     "Application.Engine.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.GooSearchResultTest.executor": "Run",
+    "Application.HumanTests.executor": "Run",
     "Application.InputOutputTest.executor": "Run",
     "Application.LaunchCalculator.executor": "Run",
     "Application.LincedList2.executor": "Run",
@@ -105,6 +68,11 @@
     "Application.SpaceObject.executor": "Run",
     "Application.SpaceRocketLauncher.executor": "Run",
     "Application.SpaceShip.executor": "Run",
+    "Application.Step2.executor": "Run",
+    "Application.Step3.executor": "Run",
+    "Application.Step3Tests.executor": "Run",
+    "Application.Step4.executor": "Run",
+    "Application.Step5.executor": "Run",
     "Application.UserJsonCreator.executor": "Run",
     "Application.VIPPassenger (1).executor": "Run",
     "Application.VIPPassenger.executor": "Run",
@@ -113,6 +81,7 @@
     "Application.myArreyListTest.executor": "Run",
     "Application.readFilesTests.executor": "Run",
     "Application.readFiletests.executor": "Run",
+    "Application.setp1Tests.executor": "Run",
     "Application.spaceShip.executor": "Run",
     "Application.testPole.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,7 +96,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UserJsonCreator">
+  <component name="RunManager" selected="Application.Step5">
     <configuration name="NewSearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NevSercher.NewSearcher" />
       <module name="TestFor" />
@@ -141,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="READ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW10.Step3.READ" />
+    <configuration name="Step3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step3" />
       <module name="TestFor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW10.Step3.*" />
+          <option name="PATTERN" value="HW11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skiper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW10.Step1.Skiper" />
+    <configuration name="Step3Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step3Tests" />
       <module name="TestFor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW10.Step1.*" />
+          <option name="PATTERN" value="HW11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Skiper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW10.Step1.Skiper2" />
+    <configuration name="Step4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step4" />
       <module name="TestFor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW10.Step1.*" />
+          <option name="PATTERN" value="HW11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserJsonCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW10.step2.UserJsonCreator" />
+    <configuration name="Step5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step5" />
       <module name="TestFor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW10.step2.*" />
+          <option name="PATTERN" value="HW11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="readFiletests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordCounter.readFiletests" />
+    <configuration name="TestsLogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.TestsLogic" />
       <module name="TestFor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW10.Step3.*" />
+          <option name="PATTERN" value="HW11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserJsonCreator" />
-        <item itemvalue="Application.READ" />
-        <item itemvalue="Application.Skiper2" />
-        <item itemvalue="Application.Skiper" />
-        <item itemvalue="Application.readFiletests" />
+        <item itemvalue="Application.Step5" />
+        <item itemvalue="Application.Step4" />
+        <item itemvalue="Application.TestsLogic" />
+        <item itemvalue="Application.Step3" />
+        <item itemvalue="Application.Step3Tests" />
       </list>
     </recent_temporary>
   </component>
