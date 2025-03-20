@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fad89a2-2291-4a24-81e7-74301a784835" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2pZ9E6zGLdULjsAdHloHUNqL5jc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CopyPast.executor": "Run",
+    "Application.CopyPastTests.executor": "Run",
+    "Application.Engine.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.GooSearchResultTest.executor": "Run",
+    "Application.HW11Tests.executor": "Coverage",
+    "Application.HumanTests.executor": "Run",
+    "Application.InputOutputTest.executor": "Run",
+    "Application.LaunchCalculator.executor": "Run",
+    "Application.LincedList2.executor": "Run",
+    "Application.MX200Tanker.executor": "Run",
+    "Application.Mathmetod.executor": "Run",
+    "Application.Mod4.executor": "Run",
+    "Application.NewSearcherTests.executor": "Run",
+    "Application.PointTest (1).executor": "Run",
+    "Application.PointTest.executor": "Run",
+    "Application.READ.executor": "Run",
+    "Application.ScanFileTests.executor": "Run",
+    "Application.SearchTests.executor": "Run",
+    "Application.Skiper.executor": "Run",
+    "Application.Skiper2.executor": "Run",
+    "Application.SpaceObject.executor": "Run",
+    "Application.SpaceRocketLauncher.executor": "Run",
+    "Application.SpaceShip.executor": "Run",
+    "Application.Step2.executor": "Run",
+    "Application.Step3.executor": "Run",
+    "Application.Step3Tests.executor": "Run",
+    "Application.Step4.executor": "Debug",
+    "Application.Step5.executor": "Run",
+    "Application.UserJsonCreator.executor": "Run",
+    "Application.VIPPassenger (1).executor": "Run",
+    "Application.VIPPassenger.executor": "Run",
+    "Application.XFuelEngine.executor": "Run",
+    "Application.launchCalculator.executor": "Run",
+    "Application.myArreyListTest.executor": "Run",
+    "Application.readFilesTests.executor": "Run",
+    "Application.readFiletests.executor": "Run",
+    "Application.setp1Tests.executor": "Run",
+    "Application.spaceShip.executor": "Run",
+    "Application.testPole.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/ALEX/IdeaProjects/TestFor/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HW11Tests">
+    <configuration name="HW11Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.HW11Tests" />
+      <module name="HW11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step1" />
+      <module name="HW11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step2" />
+      <module name="HW11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step3" />
+      <module name="HW11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Step4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW11.Step4" />
+      <module name="HW11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HW11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HW11" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW11Tests" />
+        <item itemvalue="Application.Step3" />
+        <item itemvalue="Application.Step4" />
+        <item itemvalue="Application.Step1" />
+        <item itemvalue="Application.Step2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fad89a2-2291-4a24-81e7-74301a784835" name="Changes" comment="" />
+      <created>1732962626600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732962626600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pole/launchCalculator.java</url>
+          <line>3</line>
+          <properties class="pole.launchCalculator" method="calculateTotalPrice">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestFor$HW11Tests.ic" NAME="HW11Tests Coverage Results" MODIFIED="1742503711302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
