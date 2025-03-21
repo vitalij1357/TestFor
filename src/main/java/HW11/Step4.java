@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 
 public class Step4 {
     private Stream<Long> formula(long Seed,long a, long c,long m){
+
         return Stream.iterate(Seed,x-> (a * x +c) % m);
     }
 

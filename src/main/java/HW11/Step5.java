@@ -9,17 +9,14 @@ import java.util.stream.Stream;
 
 public class Step5 {
     public <T> Collection<T> zip (Stream<T> streamA, Stream<T> streamB){
-        List<T> result = new ArrayList<>();
         Iterator<T> iteratorA = streamA.iterator();
         Iterator<T> iteratorB = streamB.iterator();
 
-        while (iteratorA.hasNext()&& iteratorB.hasNext()){
-
-            result.add(iteratorA.next());
-            result.add(iteratorB.next());
-        }
-        return result.stream()
-                .peek(System.out::println)
+        List<T> result = Stream.iterate(0, i -> iteratorA.hasNext() && iteratorB.hasNext(), i -> i + 1)
+                .flatMap(i -> Stream.of(iteratorA.next(), iteratorB.next()))
                 .collect(Collectors.toList());
+
+        result.forEach(System.out::println);
+        return result;
     }
 }
